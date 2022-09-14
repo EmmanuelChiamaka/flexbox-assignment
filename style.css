@@ -75,3 +75,18 @@ p{
 .card p{
     margin-bottom: 30px;
 }
+@media(max-width:768px){
+    .container{
+        flex-direction: column;  
+    }
+    .bright-orange{
+        border-radius: 10px 10px 0px 0px;
+    }
+    .dark-cyan{
+        border-radius: 0px 0px 0px 0px;
+    }
+    .very-dark-cyan{
+        border-radius: 0px 0px 10px 10px;
+    }
+
+}
