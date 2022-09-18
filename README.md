@@ -32,3 +32,12 @@ As mentioned above, there are a number of ways to host your project for free. We
    Once connected, every time you git push, netlify will create a new deployment and the deployment URL will be shown on your Dashboard.
 
 **Have fun building!** 🚀
+My README.md
+
+Worked on displaying cards as given in the design. Added media queries for smaller devices to show optimal layout to the user.
+
+Built with;
+1. Semantic HTML5 markup.
+2. Flexbox.
+3. CSS properties.
+
