@@ -1,43 +1,28 @@
-## Welcome! 👋
+## A three column preview card.
 
-To do this challenge, you need a basic understanding of HTML, CSS flexbox and media queries.
+This project was built with basic understanding of HTML and CSS.
 
-## The challenge
+## The task
+You are meant to build the exact image you find on your screen making sure that users are able to view your project perfectly fine no matter the size of their screen.
 
-Your challenge is to build the design image displayed in the images folder.
+Also you should endeavour that the hover states of each buttons are active.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+## My process
+I worked with;
+Semantic HTML5 markup
 
-## Your users should be able to:
+CSS custom properties and 
 
-View the optimal layout for the site depending on their device's screen size
-See hover states for all interactive elements on the page
-Where to find everything
+Flex box. Meanwhile you can choose to work with other things as the case may be, e.g CSS grid.
 
-You will find all the required assets in the /images folder. The assets are already optimized.
 
-## Building your project
+## What I learnt while building this project
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
-
-1. Initialize your project as a public repository on GitHub. This will make it easier to share your code with the community if you need some help. If you're not sure how to do this, have a read through of this Try Git resource.
-2. Configure your repository to publish your code to a URL. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, but we recommend using netlify.
+While building thus project I learnt more about flexbox and CSS properties which is a very good one for me. Also I came to realize that this project can be built using different wats depending on the one your are more better at.
 
 ## Deploying your project
 
-As mentioned above, there are a number of ways to host your project for free. We recommend using netflify as it's an amazing service and extremely simple to get set up with.
+There are a lot of good sites one can use to host a website which includes the free and paid ones. But then, I recommend you using the netlify site because of its fast and reliable services it provides and its FREE!!!
 
-3. Sign up to netlify and go through the onboarding flow, ensuring your GitHub account is connected by using their netlify for GitHub integration.
-4. Connect your project to netlify from the "Import project" page, using the "From Git Repository" button and selecting the project you want to deploy.
-   Once connected, every time you git push, netlify will create a new deployment and the deployment URL will be shown on your Dashboard.
 
 **Have fun building!** 🚀
-My README.md
-
-Worked on displaying cards as given in the design. Added media queries for smaller devices to show optimal layout to the user.
-
-Built with;
-1. Semantic HTML5 markup.
-2. Flexbox.
-3. CSS properties.
-
